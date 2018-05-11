@@ -210,20 +210,3 @@ ggplot(model.summary, aes(x = actual, y = predicted)) +
   geom_point() + 
   geom_abline() + 
   coord_cartesian(xlim = c(0, 10), ylim = c(0, 10)) 
-
-
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-
-Press h to open a hovercard with more details.
