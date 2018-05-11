@@ -1,2 +1,4 @@
 # Speed-Dating-Kaggle-Project
-Robust variety of interractive visualizations using plotly/ggplot and decision trees
+Goals:
+1. To gain insight into the data using interractive visualization utilizing the compatibility of ggplot and plotly  
+2. To get overview of drivers of attraction by building decision trees
